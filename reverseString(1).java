@@ -17,4 +17,3 @@ public class reverseString {
 		System.out.println(b);
 	}
 }
-
